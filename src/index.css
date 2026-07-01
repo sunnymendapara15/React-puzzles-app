@@ -1,0 +1,19 @@
+:root {
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  background-color: #0b1120;
+  color: #e2e8f0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #020617;
+  min-height: 100vh;
+}
+
+button, input {
+  font: inherit;
+}
