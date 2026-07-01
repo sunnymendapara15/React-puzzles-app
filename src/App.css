@@ -1,0 +1,11 @@
+.app-shell {
+  min-height: 100vh;
+  padding: clamp(1.5rem, 2vw, 3rem);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  background: radial-gradient(circle at top, rgba(59, 130, 246, 0.3), transparent 55%),
+    linear-gradient(180deg, #020617, #0b1120);
+  color: #f8fafc;
+}.
